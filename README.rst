@@ -15,16 +15,17 @@
 
 .. class:: center
 
-    :Название исследуемой задачи: Мое название работы
-    :Тип научной работы: M1P/НИР/CoIS
-    :Автор: Имя Отчество Фамилия
-    :Научный руководитель: степень, Фамилия Имя Отчество
-    :Научный консультант(при наличии): степень, Фамилия Имя Отчество
+    :Название исследуемой задачи: Извлечение графа знаний из текста
+    :Тип научной работы: M1P
+    :Автор: Черемискин Егор Андреевич
+    :Научный руководитель: доцент Гуров Сергей Исаевич
 
 Abstract
 ========
 
-Purus sit amet luctus venenatis lectus magna fringilla. Condimentum id venenatis a condimentum vitae sapien. Auctor neque vitae tempus quam pellentesque nec nam aliquam. Eget egestas purus viverra accumsan in. Nam aliquam sem et tortor. Donec et odio pellentesque diam volutpat commodo. Odio pellentesque diam volutpat commodo sed egestas. Sit amet dictum sit amet justo. Pellentesque sit amet porttitor eget. Imperdiet sed euismod nisi porta lorem mollis aliquam ut. Quis varius quam quisque id diam vel quam elementum. Ornare lectus sit amet est placerat in. Vulputate dignissim suspendisse in est ante. Elit sed vulputate mi sit amet mauris. Egestas sed tempus urna et pharetra pharetra. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus.
+Зачастую перед исследователями машинного обучения стоит задача проверки текстов на фактологическую точность. Эта задача является достаточно сложной из-за расплывчатой постановки задачи, большого числа разнообразных методов решения данной задачи, отсутствия крупных датасетов проверки текстов на фактологическую точность и отсутсвие универсальной метрики решения задачи. В то же время задача является крайне актуальной из-за бурного развития больших языковых моделей, которые могут галлюцинировать, искажать факты или полностью перевирать информацию. 
+
+В данной рабоет мы попробуем разными методами построить по входному тексту некоторый граф знаний, по которому можно проверять фактологическую точность текста
 
 Research publications
 ===============================
